@@ -50,7 +50,7 @@ RPL8A-SBP1	chrVIII	32193	37025	-
 RPS22B	chrXII	855442	858317	+
 RPL18A	chrXV	92395	95402	-
 BDF2	chrIV	332372	332375	+
-MTH1                chrV                1014582             1014579             -
-MIG2                chrVII              96110               96113               +
-RGT1                chrXI               367009              367012              +
-EST1                chrXII              607464              697461              -
+MTH1  chrV  1014582 1014579 -
+MIG2  chrVII  96110 96113 +
+RGT1  chrXI 367009  367012  +
+EST1  chrXII  607464  697461  -
